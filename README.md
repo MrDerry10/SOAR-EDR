@@ -25,6 +25,7 @@ To integrate SOAR and EDR solutions using LimaCharlie and Tines, with the object
 
 ## Steps
 -*Below are some screenshots of the project.* 
+![SOAR EDR](https://github.com/user-attachments/assets/f3248598-53f4-4c87-838b-59fd16b19dfe)
 ![Screenshot 2024-09-23 150517](https://github.com/user-attachments/assets/87dac059-2da8-41b8-83dc-db928b415f54)
 ![Screenshot 2024-09-23 151133](https://github.com/user-attachments/assets/422b9749-e704-4ffe-b51a-28e136b671ef)
 ![Screenshot 2024-09-23 151216](https://github.com/user-attachments/assets/47121ee1-6686-4afe-8c4d-5a0cb84d685b)
